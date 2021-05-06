@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">StringResource23032021</string>
+    <string name="text_title">Đăng nhập hệ thống</string>
+    <string name="text_hint_user">Nhập tài khoản</string>
+    <string name="text_hint_password">Nhập mật khẩu</string>
+    <string name="text_button_login">Đăng nhập</string>
+</resources>
