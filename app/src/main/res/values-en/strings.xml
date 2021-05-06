@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">StringResource23032021</string>
+    <string name="text_title">Login System</string>
+    <string name="text_hint_user">Input User</string>
+    <string name="text_hint_password">Input Password</string>
+    <string name="text_button_login">Login</string>
+</resources>
