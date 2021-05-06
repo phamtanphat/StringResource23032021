@@ -5,4 +5,6 @@
     <string name="text_hint_user">Input User</string>
     <string name="text_hint_password">Input Password</string>
     <string name="text_button_login">Login</string>
+    <string name="text_user_name">User</string>
+    <string name="text_password">Password</string>
 </resources>

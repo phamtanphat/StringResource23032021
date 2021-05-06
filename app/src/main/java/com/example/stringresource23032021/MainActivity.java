@@ -32,7 +32,10 @@ public class MainActivity extends AppCompatActivity {
                 String username = mEdtUser.getText().toString();
                 String password = mEdtPassword.getText().toString();
 
+                String textKeyUser = getResources().getString(R.string.text_user_name);
+                String textKeyPassword = getResources().getString(R.string.text_password);
 
+                mTvInfo.setText(textKeyUser + " : " + username + "\n" + textKeyPassword + " : " + password);
             }
         });
 

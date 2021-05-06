@@ -4,4 +4,6 @@
     <string name="text_hint_user">Nhập tài khoản</string>
     <string name="text_hint_password">Nhập mật khẩu</string>
     <string name="text_button_login">Đăng nhập</string>
+    <string name="text_user_name">Tài khoản</string>
+    <string name="text_password">Mật khẩu</string>
 </resources>
